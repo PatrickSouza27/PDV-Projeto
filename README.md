@@ -1,6 +1,15 @@
 # PDV e Gestão
 #### Trabalho Integrador - Senac 
 
+
+#### Nuget 
+```Microsoft.EntityFrameworkCore.SqlServer```
+```Microsoft.Dapper```
+```Microsoft.AspNetCore.Authentication.JwtBearer```
+```Microsoft.Extensions.Identity.Core```
+```Swashbuckle.AspNetCore```
+```Guna2Framework```
+
 #### Um Ponto de Venda é o local onde ocorrem as transações comerciais entre a empresa e o cliente. Pode ser uma loja física, um quiosque, um estande em eventos ou até mesmo uma plataforma online. O PDV é o último contato direto com o cliente antes da compra. Ele possui uma gestão Analiítica, É onde a empresa tem a oportunidade de oferecer uma experiência positiva, influenciar a decisão de compra e aumentar as vendas, A Gestão Analítica é a prática de coletar, analisar e interpretar dados relevantes para tomar decisões embasadas e estratégicas.
 
 #### A tela de login é uma interface que permite que os usuários autentiquem suas identidades antes de acessar um sistema, aplicativo ou plataforma, na tela de login, temos a recuperação de senha através do Email, Lembrar-me o Email e senha toda vez que entrar no sistema, para o botão de "Entrar" Ativar, ele deve ter os requisitos Minimos da senha, que é uma letra maiúscula e mais de 6 Caracteres
