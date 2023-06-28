@@ -44,6 +44,6 @@
 
 ![Captura de tela 2023-06-28 013048](https://github.com/PatrickSouza27/PDV-Projeto/assets/77933748/659b395f-7c1c-4cf1-af1c-8847861e519c)
 
-#### Mais Imagens 
+#### Mais Imagens: https://github.com/PatrickSouza27/PDV-Projeto/tree/main/Imagens%20Pdv
 
 #### Contato: https://www.linkedin.com/in/patrickaquinodesouza/
