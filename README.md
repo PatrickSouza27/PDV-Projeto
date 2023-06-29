@@ -1,4 +1,4 @@
-# PDV e Gestão Analítica <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="40"> #### PatrickSouza27 / MarceloLuiz12
+# PDV e Gestão Analítica <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="40"> 
 
 #### Nuget 
 ```Microsoft.EntityFrameworkCore.SqlServer```
