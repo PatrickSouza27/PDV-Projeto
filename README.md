@@ -55,3 +55,4 @@
 #### Mais Imagens: https://github.com/PatrickSouza27/PDV-Projeto/tree/main/Imagens%20Pdv
 
 #### Contato: https://www.linkedin.com/in/patrickaquinodesouza/
+#### Contato: https://www.linkedin.com/in/marceloluizpinheiro/
