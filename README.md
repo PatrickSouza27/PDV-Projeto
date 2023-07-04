@@ -35,7 +35,7 @@
 
 ![Captura de tela 2023-06-28 010828](https://github.com/PatrickSouza27/PDV-Projeto/assets/77933748/8202307e-1add-4279-9f7d-06298af0111e)
 
-#### Temos a Api onde o cliente consegue fazer seu cadastro, login, ter acesso para ver os produtos que tem na loja, a quantidade, ele consegue fazer as filtragens, a authenticação e authorização está sendo feita com jwt , então, para editar, excluir ou ser noficado quando um determinado produto selecionado chegar no estoque, precisa estár logado em sua conta, se a conta que o usuario logar for um gerente, ele terá acesso aos endpoints de ver todos os usuarios e deletar um usuario espcifico
+#### Temos a Api onde o cliente consegue fazer seu cadastro, login, ter acesso para ver os produtos que tem na loja e quantidade, ele consegue fazer as filtragens, a authenticação e authorização está sendo feita com jwt , então, para editar, excluir ou ser noficado quando um determinado produto selecionado chegar no estoque, precisa estar logado em sua conta, se a conta que o usuario logar for um gerente, ele terá acesso aos endpoints de ver todos os usuarios e deletar um usuario especifico passando o Id como parâmetro 
 
 
 ![Captura de tela 2023-06-28 132616](https://github.com/PatrickSouza27/PDV-Projeto/assets/77933748/fe727e9c-4bb4-4ed9-9b15-132fc6712097)
